@@ -4,7 +4,7 @@ import AddTodo from './components/addtodo';
 
 class TodoPageComponent extends Component{
   render(){
-    const { todos } = this.props;
+    // const { todos } = this.props;
     return (
       <div>
           <h2>Todo</h2>
